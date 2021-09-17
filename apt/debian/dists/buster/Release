@@ -1,0 +1,46 @@
+Origin: opendsh.github.io/packagerepo/apt/debian
+Label: opendsh.github.io/packagerepo/apt/debian
+Codename: buster
+Date: Fri, 17 Sep 2021 23:27:44 UTC
+Architectures: armhf arm64 amd64 i386
+Components: main
+Description: OpenDsh repository
+MD5Sum:
+ 2fb542d2f0c129944ea888a218324161 3772 main/binary-armhf/Packages
+ 27f4d51d48e2b3eb3b9a018e2c9ed2cb 1192 main/binary-armhf/Packages.gz
+ de7d94a305639005c21e9259e6053239 165 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 84522d09ba1de37eeeb4e80db0d7201e 165 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 29029092e23812e9d947a7207bf9b56c 165 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 0d4dcdd5f883b5a13955da01e2af0253 164 main/binary-i386/Release
+SHA1:
+ 6afdee34ab7070d3db265e45f32f957504d26d79 3772 main/binary-armhf/Packages
+ 517072bfdded99cd5a189ebf8bbabac518e779fa 1192 main/binary-armhf/Packages.gz
+ 5c9bdb7bffc74e198d32dc5c90b9221704e98e53 165 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 92594959502582b682d1b2839e16f34a487ef7ad 165 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 21fa1af035a58ef89fa0cfb56d8f9dc7766b6346 165 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ b09d1ecc4679fd8060794434a686fa251278680b 164 main/binary-i386/Release
+SHA256:
+ 538900ccba16f42a56da059f573239543decf5aefa04b543cde3782e7c3e5b6c 3772 main/binary-armhf/Packages
+ 3af5a98dce18831d4d7740191711d475a1dc4c2785b5abee246a04407ba36479 1192 main/binary-armhf/Packages.gz
+ b044203bd71f6eb1197939eca3d7291e7e37e3be40ab8ad33ce513664b3e81a0 165 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 465d1bbe81050c0ef4d93058d46b7e00c6ed9e04b3c6c6ae19b54b678c84b7d0 165 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ dee373d2f8c889d715d403d81649cf3315590c6707986a9380addbc1068cbf84 165 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 58d6265b93cf498f058fe42d6ef8b642b3b0ca705bcb68d4f1fb6a0df5d776e0 164 main/binary-i386/Release

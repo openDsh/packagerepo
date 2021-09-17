@@ -1,0 +1,5 @@
+Component: main
+Origin: opendsh.github.io/packagerepo/apt/debian
+Label: opendsh.github.io/packagerepo/apt/debian
+Architecture: armhf
+Description: OpenDsh repository

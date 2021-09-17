@@ -1,0 +1,60 @@
+Package: aasdk
+Architecture: armhf
+Depends: libusb-1.0-0,libboost-all-dev,libssl-dev,libprotobuf-dev
+Priority: optional
+Section: devel
+Filename: pool/main/a/aasdk/aasdk_2.1.2d48d7c_armhf.deb
+Size: 17410602
+SHA256: 855b9962896b2741a4f01346c112dae826fdeb0999d921bf15b933705ac1fd72
+SHA1: f3567162245b135f1784ddd1167116cdf021bafd
+MD5sum: d48b6675f4c19c6a5f44994e5e1698b3
+Description: aasdk built using CMake
+Maintainer: AASDK
+Version: 2.1.2d48d7c
+Installed-Size: 136156
+
+Package: openautoopendsh
+Architecture: armhf
+Depends: libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.9.0~beta), libqt5gui5 (>= 5.0.2), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5widgets5 (>= 5.0.2), librtaudio6, libstdc++6 (>= 6), libusb-1.0-0 (>= 2:1.0.9)
+Priority: optional
+Section: devel
+Filename: pool/main/o/openautoopendsh/openautoopendsh_2.1.1629500851-2_armhf.deb
+Size: 40408440
+SHA256: 2a34dfa20158a6ff722742ec1d416df33432b33beaf0a358ae7cb0a201a113f8
+SHA1: 52e76eab04c434e920f9d233c0d968da05d64832
+MD5sum: a5951c9524ef8500f19f7f9ad601bb6b
+Description: openauto built using CMake
+Maintainer: OpenDsh
+Version: 2.1.1629500851-2
+Installed-Size: 216729
+
+Package: opendsh
+Architecture: armhf
+Depends: openautoopendsh (>=2.1.1629500851), libboost-atomic1.67.0, libboost-chrono1.67.0, libboost-date-time1.67.0, libboost-filesystem1.67.0, libboost-log1.67.0, libboost-regex1.67.0 (>= 1.67.0-10), libboost-system1.67.0, libboost-test1.67.0, libboost-thread1.67.0, libc6 (>= 2.28), libgcc1 (>= 1:3.5), libglib2.0-0 (>= 2.12.0), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.0.0), libkf5bluezqt6 (>= 5.13.0), libprotobuf17, libqt5bluetooth5 (>= 5.6.0), libqt5core5a (>= 5.10.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.2.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5quickwidgets5 (>= 5.3.0), libqt5serialbus5 (>= 5.10.1), libqt5serialport5 (>= 5.6.0), libqt5websockets5 (>= 5.6.0), libqt5widgets5 (>= 5.2.0), librtaudio6, libstdc++6 (>= 6), libtag1v5 (>= 1.9.1-2.2~), libusb-1.0-0 (>= 2:1.0.9)
+Priority: optional
+Section: devel
+Filename: pool/main/o/opendsh/opendsh_0.1.1631235763-2_armhf.deb
+Size: 14315558
+SHA256: 6f8f016aaf102bd0e28e4a7fc1647f51e444d4379916f3362ec14713a7d101a4
+SHA1: 09e46655e7dcd76c75f01704e3716a9205d20ef8
+MD5sum: facd355fa2e238bf6c9229e638a94e89
+Description: dash built using CMake
+Maintainer: OpenDsh
+Version: 0.1.1631235763-2
+Installed-Size: 34024
+
+Package: qtgstreamer
+Architecture: armhf
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.5), libgl1, libglib2.0-0 (>= 2.37.3), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libqt5core5a (>= 5.6.0~beta), libqt5gui5 (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5opengl5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.2.0~rc1), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 5.2)
+Priority: optional
+Section: devel
+Filename: pool/main/q/qtgstreamer/qtgstreamer_0.1.1_armhf.deb
+Size: 371444
+SHA256: d1fe593df2f1df662713ecb38dfb291d866db2e8eb98fc57c8970aba328bb4c9
+SHA1: 8aa9b8cc14bcd95a8927fb92a9bbc2eb9e657fbd
+MD5sum: bf775f549035c68d9ba8f1911f9d97b7
+Description: QtGStreamer built using CMake
+Maintainer: qt-gstreamer
+Version: 0.1.1
+Installed-Size: 2852
+

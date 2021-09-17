@@ -1,0 +1,15 @@
+Origin: opendsh.github.io/packagerepo/apt/debian
+Label: opendsh.github.io/packagerepo/apt/debian
+Codename: buster
+Architectures: armhf arm64 amd64 i386
+Components: main
+Description: OpenDsh repository
+SignWith: 59F1DDFC2F78BA12557B0F699F9DE46F830D7DA6
+
+Origin: opendsh.github.io/packagerepo/apt/debian
+Label: opendsh.github.io/packagerepo/apt/debian
+Codename: bullseye
+Architectures: armhf arm64 amd64 i386
+Components: main
+Description: OpenDsh repository
+SignWith: 59F1DDFC2F78BA12557B0F699F9DE46F830D7DA6
